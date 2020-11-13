@@ -1,0 +1,11 @@
+C:\Users\조윤성\source\repos\MemoBoard\bin\Debug\MemoBoard.exe.config
+C:\Users\조윤성\source\repos\MemoBoard\bin\Debug\MemoBoard.exe
+C:\Users\조윤성\source\repos\MemoBoard\bin\Debug\MemoBoard.pdb
+C:\Users\조윤성\source\repos\MemoBoard\obj\Debug\MemoBoard.csprojAssemblyReference.cache
+C:\Users\조윤성\source\repos\MemoBoard\obj\Debug\MemoBoard.Properties.Resources.resources
+C:\Users\조윤성\source\repos\MemoBoard\obj\Debug\MemoBoard.csproj.GenerateResource.cache
+C:\Users\조윤성\source\repos\MemoBoard\obj\Debug\MemoBoard.csproj.CoreCompileInputs.cache
+C:\Users\조윤성\source\repos\MemoBoard\obj\Debug\MemoBoard.exe
+C:\Users\조윤성\source\repos\MemoBoard\obj\Debug\MemoBoard.pdb
+C:\Users\조윤성\source\repos\MemoBoard\obj\Debug\MemoBoard.MemoBoard.resources
+C:\Users\조윤성\source\repos\MemoBoard\obj\Debug\MemoBoard.TextArea.resources
